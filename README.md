@@ -1,4 +1,4 @@
-# Battery API - Spring Boot
+# VPP API - Spring Boot
 
 ## Overview
 
@@ -15,10 +15,10 @@ This is a REST API built using Spring Boot that allows users to register batteri
 
 ## Technologies Used
 
-- Java 17
+- Java 21
 - Spring Boot 3
 - Spring Data JPA
-- asPostgreSQL
+- PostgreSQL
 - Flyway
 - Lombok
 - Mockito & JUnit 5 for testing
