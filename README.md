@@ -10,7 +10,6 @@ This is a REST API built using Spring Boot that allows users to register batteri
 - Query batteries within a postcode range.
 - Filter results by minimum and maximum watt capacity.
 - Retrieve sorted battery names along with total and average capacity.
-- Concurrent handling of battery registrations.
 - Integrated logging for system events.
 
 ## Technologies Used
@@ -28,7 +27,7 @@ This is a REST API built using Spring Boot that allows users to register batteri
 
 ### Prerequisites
 
-- Java 17+
+- Java 21
 - PostgreSQL database
 
 ### Configuration
