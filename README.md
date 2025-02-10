@@ -105,7 +105,6 @@ mvn test
 ## Logging
 
 - The application logs significant events such as battery additions and queries.
-- Logs are stored in `logs/application.log` (if configured).
 
 ## OpenAPI Documentation
 
